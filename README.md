@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @AcemanDan
 - 👀 I’m interested in C# programming language and Asp Net Core. 
-- 🌱 I’m currently learning C#.
+- 🌱 I’m currently learning how to use these skills to build a school web-based app.
 -- 📫 How to reach me: jamesvarnell@rocketmail.com
 
 <!---
