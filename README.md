@@ -6,7 +6,7 @@ Self-taught .NET developer building full-stack web applications with ASP.NET Cor
 
 ## 🚀 Featured Project
 
-### [InvenTrack — Inventory Management System](https://github.com/jamesvarnell/InventoryManagementApp)
+### [InvenTrack — Inventory Management System](https://github.com/AcemanDan/InventoryManagementApp)
 
 > Full-stack inventory management web app built with ASP.NET Core 10 Razor Pages and EF Core 10.
 
@@ -33,6 +33,15 @@ Self-taught .NET developer building full-stack web applications with ASP.NET Cor
 
 ---
 
+## 📈 GitHub Stats
+
+<p align="left">
+  <img src="https://github-readme-stats.vercel.app/api?username=AcemanDan&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" height="165" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=AcemanDan&layout=compact&theme=tokyonight&hide_border=true" height="165" />
+</p>
+
+---
+
 ## 🌱 Currently Learning
 
 - ASP.NET Core Identity — authentication and role-based authorization
@@ -52,10 +61,10 @@ Self-taught .NET developer building full-stack web applications with ASP.NET Cor
 
 ## 📫 Get in Touch
 
-[![GitHub](https://img.shields.io/badge/GitHub-jamesvarnell-181717?style=flat-square&logo=github)](https://github.com/jamesvarnell)
+[![GitHub](https://img.shields.io/badge/GitHub-AcemanDan-181717?style=flat-square&logo=github)](https://github.com/AcemanDan)
 
 ---
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=jamesvarnell&color=0d6efd&style=flat-square&label=Profile+Views" />
+  <img src="https://komarev.com/ghpvc/?username=AcemanDan&color=0d6efd&style=flat-square&label=Profile+Views" />
 </p>
