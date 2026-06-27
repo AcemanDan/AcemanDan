@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Dan.
 - 👀 I’m interested in C# programming language using Razor Pages and Asp Net Core. 
-- 🌱 I’m currently learning how to use these skills to build a inventory web-based app.
+- 🌱 I’m currently learning how to use these skills to build an inventory web-based app.
 -- 📫 How to reach me: jamesvarnell@rocketmail.com
 
 <!---
