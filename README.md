@@ -33,15 +33,6 @@ Self-taught .NET developer building full-stack web applications with ASP.NET Cor
 
 ---
 
-## 📈 GitHub Stats
-
-<p align="left">
-  <img src="https://github-readme-stats.vercel.app/api?username=jamesvarnell&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" height="165" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=jamesvarnell&layout=compact&theme=tokyonight&hide_border=true" height="165" />
-</p>
-
----
-
 ## 🌱 Currently Learning
 
 - ASP.NET Core Identity — authentication and role-based authorization
